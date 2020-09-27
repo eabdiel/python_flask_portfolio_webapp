@@ -15,7 +15,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 #Initialize db
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:Membrillo1.@localhost/contact_collector'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:Password@localhost/contact_collector'
 db = SQLAlchemy(app)
 
 #Define class for table structure
