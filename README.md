@@ -11,5 +11,5 @@ Simple Portfolio webapp build with flask:
 
 5- Input data validation 
 
-6- <Pending> Send automated email with resume and projects information only if website/email is corporate
+6- Pending -> Send automated email with resume and projects information only if website/email is corporate
   
